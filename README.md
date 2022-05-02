@@ -6,12 +6,16 @@ The purpose of this analysis is to better understand the effect of paid reviews 
 
 ## Results
 
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+For this dataset, there were 3105520 total reviews. There were 2 Vine-associated reviews and 3105513 non-Vine reviews.
+
+Filtering by only five-star ratings, 1 of the Vine reviews was five stars and 1864803 of the non-Vine reviews were five stars.
+
+In other words, 50% of Vine reviews were five stars, and 60% of non-Vine reviews were five stars. However, it should be noted that with such a small sample of Vine reviews in this dataset it limits our ability to draw conclusions on the effect of the Vine program on star rating.
 
 
 ## Summary
 
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Because of the limited nature of this dataset we are unable to draw significant conclusions from this analysis. At first glance, it appears that the Vine program does not have an impact on star-ratings given in reviews. However, additional data are needed to confirm this.
+
+Additionally, there may be a difference in the effect of Vine reviews between different product segments. To make this analysis more robust, the scope could be widened to include additional categories of products.
 
